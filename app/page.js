@@ -1,7 +1,7 @@
 'use client'
 import { Box, Button, Stack, TextField } from '@mui/material'
 import { useState } from 'react'
-
+import UrlAdd from './/components/url_add'
 export default function Home () {
   // We'll add more code here in the following steps
   const [messages, setMessages] = useState([
@@ -57,6 +57,7 @@ export default function Home () {
       justifyContent='center'
       alignItems='center'
     >
+      <UrlAdd />
       <Stack
         direction={'column'}
         width='500px'
