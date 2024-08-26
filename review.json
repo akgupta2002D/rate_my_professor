@@ -1,0 +1,203 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. James Smith",
+        "review": "Excellent at explaining complex concepts in a simple way. Always available for help.",
+        "subject": "Mathematics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Linda Johnson",
+        "review": "Very enthusiastic and makes learning fun. Tests are challenging but fair.",
+        "subject": "Biology",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Robert Williams",
+        "review": "Lectures are engaging and well-structured. The assignments are tough but rewarding.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Patricia Brown",
+        "review": "Good lecturer, but sometimes goes too fast. Be prepared to take a lot of notes.",
+        "subject": "Economics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Michael Davis",
+        "review": "Very knowledgeable but a bit disorganized. Be sure to attend all classes.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Barbara Miller",
+        "review": "Great at encouraging class participation. Her exams are very fair.",
+        "subject": "English",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. William Wilson",
+        "review": "The class was interesting, but the professor can be hard to follow at times.",
+        "subject": "History",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Susan Moore",
+        "review": "Very clear in her teaching and provides great resources. Loved her class!",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. John Taylor",
+        "review": "Always willing to help students, but his lectures can be monotonous.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Mary Anderson",
+        "review": "Very supportive and encouraging. Assignments are graded fairly.",
+        "subject": "Sociology",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Richard Thomas",
+        "review": "Tough grader but very knowledgeable. Be prepared to work hard in his class.",
+        "subject": "Political Science",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Karen Jackson",
+        "review": "Very passionate about teaching. Makes sure everyone understands before moving on.",
+        "subject": "Philosophy",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Charles White",
+        "review": "The class material was dense, but he provided good examples to understand it.",
+        "subject": "Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Nancy Harris",
+        "review": "Amazing professor! Her enthusiasm for the subject is contagious.",
+        "subject": "Art History",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. David Martin",
+        "review": "Lectures are well-prepared and informative, but the exams are quite tough.",
+        "subject": "Statistics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Lisa Thompson",
+        "review": "Great at explaining things, but a bit slow in grading assignments.",
+        "subject": "Anthropology",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Christopher Garcia",
+        "review": "Very detailed and thorough. You will learn a lot, but the workload is heavy.",
+        "subject": "Law",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Karen Martinez",
+        "review": "Encourages discussion and critical thinking. Great professor!",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Thomas Martinez",
+        "review": "Very approachable and friendly, but his lectures are not very engaging.",
+        "subject": "Geography",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Jennifer Lee",
+        "review": "Her lectures are interesting, and she uses a lot of real-world examples.",
+        "subject": "Marketing",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Paul Rodriguez",
+        "review": "Very strict with deadlines, but provides great feedback on assignments.",
+        "subject": "Business Administration",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Laura Lewis",
+        "review": "Amazing professor! Always makes time for students and provides helpful feedback.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Kevin Walker",
+        "review": "Very good at breaking down difficult topics. Highly recommend his classes.",
+        "subject": "Mathematics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Michelle Hall",
+        "review": "Fair grader and very supportive. Provides great resources for study.",
+        "subject": "Linguistics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Steven Allen",
+        "review": "Great professor who explains things clearly. The exams are fair and relevant.",
+        "subject": "Physics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Sarah Young",
+        "review": "Lectures are very structured, but not very interactive. Tough grader.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Mark King",
+        "review": "Really passionate about his subject, but sometimes goes off-topic.",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Betty Scott",
+        "review": "Very friendly and supportive. Her classes are engaging and thought-provoking.",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Charles Wright",
+        "review": "His classes are tough but rewarding. Be prepared for a lot of reading.",
+        "subject": "Literature",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Sandra Green",
+        "review": "She makes difficult topics easy to understand. Very patient and helpful.",
+        "subject": "Economics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. George Baker",
+        "review": "Knowledgeable but not very engaging. Exams are difficult.",
+        "subject": "Political Science",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Jessica Adams",
+        "review": "Great at explaining concepts and makes class interesting.",
+        "subject": "Anthropology",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Brian Nelson",
+        "review": "He is very strict with attendance and assignments but you learn a lot.",
+        "subject": "Computer Science",
+        "stars": 3
+      }
+    ]
+  }
+  
