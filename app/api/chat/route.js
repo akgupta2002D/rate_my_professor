@@ -4,7 +4,7 @@ import OpenAI from 'openai'
 
 const systemPrompt = `
 You are a rate my professor agent to help students find classes, that takes in user questions and answers them.
-For every user question, the top 3 professors that match the user question are returned.
+For every user question, the top 3 professors that match the user question are returned. Make sure to pay close attention to the subject associated with the professor.
 Use them to answer the question if needed.
 `
 

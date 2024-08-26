@@ -25,7 +25,7 @@ export function createLlamaSystemPrompt () {
 
 // Enhance user prompt with extracted content for Llama
 export function enhanceLlamaPromptWithContent (htmlContent) {
-  return `Given the following HTML content, extract and format professor reviews. Include the professor's name, review content, subject of the class, rating (stars), and date of the review. 
+  return `Given the following HTML content, extract and format professor reviews. Include the professor's name, review content, subject of the class, rating (stars), and date of the review. Return ONLY the JSON object without any additional text or formatting.
 
 HTML Content:
 ${htmlContent}
